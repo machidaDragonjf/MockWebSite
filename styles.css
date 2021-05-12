@@ -1,0 +1,42 @@
+h1, h4 {
+    color:white;
+}
+
+.jumbotron {
+    background-color: rgb(129, 88, 240);
+    padding: 0;
+    margin: 0;
+    width: 100%;
+} 
+h3 {
+    font-size: 15pt; 
+    text-align:center;
+}
+p {
+    font-size: 10pt; 
+}
+h4 {
+    font-size: 18pt; 
+}
+
+
+h5{
+    font-size: 12pt;
+}
+
+.image1 {
+    height: 100%;
+    width: 100%; 
+}
+.tribar {
+    width: 100%;
+    height: 100%;
+}
+
+.cards {
+    width: 100%;
+}
+
+.body {
+    width: 100%;
+}
